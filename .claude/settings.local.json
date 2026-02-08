@@ -13,7 +13,9 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: 看護師転職エージェントLP\n\n- Next.js 16 + TypeScript + Tailwind CSS\n- shadcn/ui components\n- Framer Motion animations\n- Bento Grid layout\n- Supabase integration for contact form\n- Responsive design with deep navy + mint green color scheme\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git remote add:*)",
       "Bash(git push:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh api:*)",
+      "Bash(git pull:*)"
     ]
   }
 }
